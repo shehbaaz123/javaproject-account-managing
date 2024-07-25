@@ -1,4 +1,3 @@
-# javaproject-account-managing
 import java.util.Scanner;
 
  class atm {
